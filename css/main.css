@@ -1,0 +1,13 @@
+/*selector or type selector*/
+/*
+  selector{
+    property; value;
+}
+*/
+mark {
+background-color: yellow;
+}
+
+.redlining {
+    color: red;
+}
